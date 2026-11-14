@@ -1,0 +1,16 @@
+{
+  "name": "surakshit-safar-edge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline co-pilot alert engine and Tier-3 sensor detectors for Surakshit Safar",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "test": "node --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}

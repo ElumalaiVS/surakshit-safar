@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">சாலை பாதுகாப்பு உதவியாளர்</string>
+    <string name="channel_desc">எச்சரிக்கைகள் இயங்கும்போது தெரியும்</string>
+    <string name="notif_on_duty">முன்னால் உள்ள சாலையை கவனிக்கிறோம்</string>
+    <string name="notif_next">அடுத்து: %1$s, %2$s</string>
+    <string name="action_stop">நிறுத்து</string>
+    <string name="action_rain_on">மழை மோட் ஆன்</string>
+    <string name="action_rain_off">மழை மோட் ஆஃப்</string>
+
+    <string name="on_duty">டியூட்டியில்</string>
+    <string name="off_duty">டியூட்டி ஆஃப்</string>
+    <string name="tap_to_start">எச்சரிக்கைகளை தொடங்க அழுத்தவும்</string>
+    <string name="alerts_running">எச்சரிக்கைகள் இயங்குகின்றன. நீங்கள் Rapido, Uber அல்லது Maps-க்கு செல்லலாம்.</string>
+    <string name="disclaimer">எச்சரிக்கை வரவில்லை என்றால் சாலை பாதுகாப்பானது என்று அர்த்தமில்லை. பல ஆபத்துகள் இன்னும் வரைபடத்தில் இல்லை. கவனமாக ஓட்டுங்கள்.</string>
+
+    <string name="vehicle">வாகனம்</string>
+    <string name="v_2w">பைக் / ஸ்கூட்டர்</string>
+    <string name="v_3w">ஆட்டோ</string>
+    <string name="v_car">கார்</string>
+    <string name="v_bus">பஸ்</string>
+    <string name="v_truck">லாரி</string>
+
+    <string name="mode">எச்சரிக்கை முறை</string>
+    <string name="m_novice">இந்த சாலை புதியது</string>
+    <string name="m_standard">சாதாரணம்</string>
+    <string name="m_gig">டெலிவரி / ரைடு பார்ட்னர்</string>
+
+    <string name="language">குரல் மொழி</string>
+    <string name="rain_mode">மழை பெய்கிறது (முன்கூட்டியே எச்சரிக்கை)</string>
+    <string name="fun_mode">வேகம் நினைவூட்ட வேடிக்கை வரிகள் (ஆபத்து எச்சரிக்கைகள் சீரியஸாகவே)</string>
+    <string name="set_home">வீடு இங்கே (தனியுரிமை மண்டலம் + ஆஃப்லைன் பகுதி)</string>
+    <string name="home_set">வீட்டு பகுதி சேமிக்கப்பட்டது</string>
+    <string name="test_alert">மாதிரி எச்சரிக்கையை கேளுங்கள்</string>
+
+    <string name="report_title">இங்கே ஆபத்தை தெரிவிக்கவும்</string>
+    <string name="report_stop_first">தெரிவிக்க வாகனத்தை நிறுத்துங்கள். ஓட்டும்போது எல்லாம் கைகள் இல்லாமல்.</string>
+    <string name="report_saved">சேமிக்கப்பட்டது. நெட்வொர்க் வந்ததும் அப்லோட் ஆகும்.</string>
+
+    <string name="perm_location">முன்னால் உள்ள ஆபத்துகளை எச்சரிக்க இருப்பிடம் தேவை.</string>
+    <string name="perm_overlay">Rapido, Uber, Maps மேல் எச்சரிக்கைகளை பார்க்க \"மற்ற ஆப்களின் மேல் காட்டு\" அனுமதிக்கவும்.</string>
+    <string name="grant">அனுமதி</string>
+    <string name="consent_telemetry">புதிய பள்ளங்களை கண்டறிய அநாமதேய குலுக்கல் தரவை பகிரவும் (பயணங்கள், அடையாளம் இல்லை)</string>
+</resources>

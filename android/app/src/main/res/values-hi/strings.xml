@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">सड़क सुरक्षा सहायक</string>
+    <string name="channel_desc">अलर्ट चालू रहने पर दिखता है</string>
+    <string name="notif_on_duty">आगे की सड़क पर नज़र</string>
+    <string name="notif_next">अगला: %1$s, %2$s</string>
+    <string name="action_stop">बंद करें</string>
+    <string name="action_rain_on">बारिश मोड चालू</string>
+    <string name="action_rain_off">बारिश मोड बंद</string>
+
+    <string name="on_duty">ड्यूटी पर</string>
+    <string name="off_duty">ड्यूटी बंद</string>
+    <string name="tap_to_start">अलर्ट शुरू करने के लिए दबाएँ</string>
+    <string name="alerts_running">अलर्ट चालू हैं। आप Rapido, Uber या Maps पर जा सकते हैं।</string>
+    <string name="disclaimer">अलर्ट न आने का मतलब यह नहीं कि सड़क सुरक्षित है। ज़्यादातर खतरे अभी मैप नहीं हुए हैं। सावधानी से चलाएँ।</string>
+
+    <string name="vehicle">वाहन</string>
+    <string name="v_2w">बाइक / स्कूटर</string>
+    <string name="v_3w">ऑटो</string>
+    <string name="v_car">कार</string>
+    <string name="v_bus">बस</string>
+    <string name="v_truck">ट्रक</string>
+
+    <string name="mode">अलर्ट तरीका</string>
+    <string name="m_novice">यह सड़क नई है</string>
+    <string name="m_standard">सामान्य</string>
+    <string name="m_gig">डिलीवरी / राइड पार्टनर</string>
+
+    <string name="language">आवाज़ की भाषा</string>
+    <string name="rain_mode">बारिश हो रही है (पहले चेतावनी)</string>
+    <string name="set_home">घर यहाँ सेट करें (प्राइवेसी ज़ोन + ऑफ़लाइन क्षेत्र)</string>
+    <string name="home_set">घर का क्षेत्र सेव हुआ</string>
+    <string name="test_alert">नमूना अलर्ट सुनें</string>
+
+    <string name="report_title">यहाँ खतरा रिपोर्ट करें</string>
+    <string name="report_stop_first">रिपोर्ट करने के लिए वाहन रोकें। चलते समय सब कुछ हैंड्स-फ़्री है।</string>
+    <string name="report_saved">सेव हुआ। नेटवर्क मिलने पर अपलोड होगा।</string>
+
+    <string name="perm_location">आगे के खतरों की चेतावनी के लिए लोकेशन ज़रूरी है।</string>
+    <string name="perm_overlay">Rapido, Uber, Maps के ऊपर अलर्ट देखने के लिए \"दूसरे ऐप्स के ऊपर दिखाएँ\" की अनुमति दें।</string>
+    <string name="grant">अनुमति दें</string>
+    <string name="consent_telemetry">नए गड्ढे खोजने के लिए गुमनाम झटका डेटा साझा करें (यात्राएँ या पहचान नहीं)</string>
+    <string name="fun_mode">स्पीड याद दिलाने के लिए मज़ेदार लाइनें (खतरे की चेतावनी गंभीर ही रहेगी)</string>
+</resources>

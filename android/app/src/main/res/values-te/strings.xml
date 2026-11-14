@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">రోడ్డు భద్రత సహాయకుడు</string>
+    <string name="channel_desc">హెచ్చరికలు పనిచేస్తున్నప్పుడు కనిపిస్తుంది</string>
+    <string name="notif_on_duty">ముందు రోడ్డును గమనిస్తున్నాం</string>
+    <string name="notif_next">తదుపరి: %1$s, %2$s</string>
+    <string name="action_stop">ఆపు</string>
+    <string name="action_rain_on">వర్షం మోడ్ ఆన్</string>
+    <string name="action_rain_off">వర్షం మోడ్ ఆఫ్</string>
+
+    <string name="on_duty">డ్యూటీలో ఉన్నారు</string>
+    <string name="off_duty">డ్యూటీ ఆఫ్</string>
+    <string name="tap_to_start">హెచ్చరికలు మొదలుపెట్టడానికి నొక్కండి</string>
+    <string name="alerts_running">హెచ్చరికలు పనిచేస్తున్నాయి. మీరు Rapido, Uber లేదా Maps కి వెళ్ళవచ్చు.</string>
+    <string name="disclaimer">హెచ్చరిక రాకపోతే రోడ్డు సురక్షితం అని కాదు. చాలా ప్రమాదాలు ఇంకా మ్యాప్ కాలేదు. జాగ్రత్తగా నడపండి.</string>
+
+    <string name="vehicle">వాహనం</string>
+    <string name="v_2w">బైక్ / స్కూటర్</string>
+    <string name="v_3w">ఆటో</string>
+    <string name="v_car">కారు</string>
+    <string name="v_bus">బస్సు</string>
+    <string name="v_truck">లారీ</string>
+
+    <string name="mode">హెచ్చరిక విధానం</string>
+    <string name="m_novice">ఈ రోడ్డు కొత్త</string>
+    <string name="m_standard">సాధారణం</string>
+    <string name="m_gig">డెలివరీ / రైడ్ పార్ట్నర్</string>
+
+    <string name="language">వాయిస్ భాష</string>
+    <string name="rain_mode">వర్షం పడుతోంది (ముందుగానే హెచ్చరిక)</string>
+    <string name="set_home">ఇల్లు ఇక్కడ (ప్రైవసీ జోన్ + ఆఫ్‌లైన్ ప్రాంతం)</string>
+    <string name="home_set">ఇంటి ప్రాంతం సేవ్ అయింది</string>
+    <string name="test_alert">నమూనా హెచ్చరిక వినండి</string>
+
+    <string name="report_title">ఇక్కడ ప్రమాదం రిపోర్ట్ చేయండి</string>
+    <string name="report_stop_first">రిపోర్ట్ చేయడానికి వాహనం ఆపండి. నడుపుతున్నప్పుడు అంతా హ్యాండ్స్-ఫ్రీ.</string>
+    <string name="report_saved">సేవ్ అయింది. నెట్‌వర్క్ వచ్చినప్పుడు అప్‌లోడ్ అవుతుంది.</string>
+
+    <string name="perm_location">ముందున్న ప్రమాదాల గురించి హెచ్చరించడానికి లొకేషన్ అవసరం.</string>
+    <string name="perm_overlay">Rapido, Uber, Maps పైన హెచ్చరికలు చూడటానికి \"ఇతర యాప్‌ల పైన చూపించు\" అనుమతించండి.</string>
+    <string name="grant">అనుమతించు</string>
+    <string name="consent_telemetry">కొత్త గుంతలు కనుగొనడానికి అనామక కుదుపు డేటా పంచుకోండి (ప్రయాణాలు, గుర్తింపు కాదు)</string>
+    <string name="fun_mode">వేగం గుర్తుచేయడానికి సరదా మాటలు (ప్రమాద హెచ్చరికలు సీరియస్‌గానే)</string>
+</resources>

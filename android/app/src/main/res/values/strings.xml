@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Surakshit Safar</string>
+    <string name="channel_name">Road safety co-pilot</string>
+    <string name="channel_desc">Shows while hazard alerts are active</string>
+    <string name="notif_on_duty">Watching the road ahead</string>
+    <string name="notif_next">Next: %1$s in %2$s</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_rain_on">Rain mode on</string>
+    <string name="action_rain_off">Rain mode off</string>
+
+    <string name="on_duty">On duty</string>
+    <string name="off_duty">Off duty</string>
+    <string name="tap_to_start">Tap to start alerts</string>
+    <string name="alerts_running">Alerts running. You can switch to Rapido, Uber or Maps.</string>
+    <string name="disclaimer">No alert does not mean the road is safe. Most hazards are not mapped yet. Ride carefully.</string>
+
+    <string name="vehicle">Vehicle</string>
+    <string name="v_2w">Bike / scooter</string>
+    <string name="v_3w">Auto</string>
+    <string name="v_car">Car</string>
+    <string name="v_bus">Bus</string>
+    <string name="v_truck">Truck</string>
+
+    <string name="mode">Alert style</string>
+    <string name="m_novice">New to this road</string>
+    <string name="m_standard">Standard</string>
+    <string name="m_gig">Delivery / ride partner</string>
+
+    <string name="language">Voice language</string>
+    <string name="rain_mode">Raining (longer warnings)</string>
+    <string name="set_home">Set home here (privacy zone + offline area)</string>
+    <string name="home_set">Home area saved</string>
+    <string name="test_alert">Play a sample alert</string>
+
+    <string name="report_title">Report a hazard here</string>
+    <string name="report_stop_first">Stop the vehicle to report. While moving, everything is hands-free.</string>
+    <string name="report_saved">Saved. It will upload when you have network.</string>
+
+    <string name="perm_location">Location is needed to warn you about hazards ahead.</string>
+    <string name="perm_overlay">Allow \"display over other apps\" to see alerts on top of Rapido, Uber or Maps.</string>
+    <string name="grant">Allow</string>
+    <string name="consent_telemetry">Share anonymous bump data to find new potholes (no trips, no identity)</string>
+    <string name="fun_mode">Fun lines for speed reminders (hazard warnings stay serious)</string>
+</resources>
