@@ -1,0 +1,15 @@
+{
+  "name": "safegrid-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SafeGrid Analytics: accident management and family support dashboard (Nagari pilot)",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.24.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.17"
+  }
+}

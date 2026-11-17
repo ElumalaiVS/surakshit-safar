@@ -2,6 +2,8 @@
 
 A survival-first road hazard co-pilot for Indian commuters, gig riders and first-time travellers. It warns riders early about unmarked speed breakers, craters, parked trucks, wrong-side zones and dark stretches, using hazard data verified by the agency that owns the road.
 
+**SafeGrid Analytics**, the web dashboard for citizens, control rooms and officials, is in [`web/`](web/README.md). Open `web/dist/index.html` in a browser to try it.
+
 **Read [`DESIGN.md`](DESIGN.md) first**: it covers the problem, governance model, taxonomy, schema, offline architecture and alert UX.
 
 ```
@@ -18,6 +20,7 @@ surakshit-safar/
 ├── android/                       Kotlin Android app — see android/README_ANDROID.md
 │   ├── core/                      pure-Kotlin engine, speed coach, detectors, tone synth (40 JUnit tests)
 │   └── app/                       foreground service, overlay, cues, SQLite cache, sync, Compose UI
+├── web/                           SafeGrid Analytics dashboard (React + Tailwind) — see web/README.md
 └── edge/                          reference engine in TypeScript (spec + tests the Kotlin port mirrors)
     ├── sql/edge_schema.sql        SQLite cache: hazards + R*Tree, tiles, outbox, familiarity
     ├── src/geo.ts                 haversine, bearings, polyline projection, geohash
